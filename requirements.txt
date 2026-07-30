@@ -1,6 +1,0 @@
-pandas
-numpy
-train_test_split
-import LogisticRegression
-import LabelEncoder
-import OrdinalEncoder
